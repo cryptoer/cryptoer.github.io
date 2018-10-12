@@ -1,3 +1,3 @@
 Cryptoer's personal website
 
-updated on Fri Oct 12 13:09:20 EDT 2018
+updated on Fri Oct 12 15:09:25 EDT 2018
